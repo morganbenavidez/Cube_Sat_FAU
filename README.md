@@ -1,12 +1,15 @@
 # Cube_Sat_FAU
-# Cube Satellite project being created and deployed by dedicated engineering and computer science students at Florida Atlantic University
 
-Make sure you have python3 installed <br />
-Create a directory named pySDR_tutorial in Documents folder <br />
+Cube Satellite Software Radio project being created and deployed by dedicated engineering and computer science students at Florida Atlantic University
 
-# Create your Python virtual environment and install PySDR: <br />
+---
 
-cd Documents/pySDR_tutorial <br />
-python3 -m venv pySDR_tutorial_folder <br />
-source pySDR_tutorial_folder/bin/activate <br />
-pip3 install PySDR <br />
+## Install
+
+ - Make sure you have `python3` installed
+ - Clone this repo `git clone https://github.com/morganbenavidez/Cube_Sat_FAU.git` 
+ - Create your Python virtual environment and install PySDR:
+ - `cd Cube_Sat_FAU`  
+ - `python3 -m venv ./venv`  
+ - `source Cube_Sat_Fau/venv/bin/activate`  
+ - `pip3 install PySDR`  

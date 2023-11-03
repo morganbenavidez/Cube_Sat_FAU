@@ -1,13 +1,13 @@
 
 # Install Python3
-# Create Directory
+# Clone repository
 # Create your Python virtual environment 
 # Install PySDR
 
 sudo apt install python3
-mkdir Documents/pySDR_tutorial
-cd Documents/pySDR_tutorial
-python3 -m venv pySDR_tutorial_folder
-source pySDR_tutorial_folder/bin/activate
+git clone https://github.com/morganbenavidez/Cube_Sat_FAU.git
+cd Cube_Sat_Fau
+python3 -m venv ./venv
+source ./venv/bin/activate
 pip3 install PySDR
 pip3 install bokeh
