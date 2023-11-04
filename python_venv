@@ -1,10 +1,11 @@
 
-# Make sure you have python3 installed
-# Create a directory named pySDR_tutorial in Documents folder
+# Install Python3
+# Create Directory
+# Create your Python virtual environment 
+# Install PySDR
 
-
-# Create your Python virtual environment and install PySDR
-
+sudo apt install python3
+mkdir Documents/pySDR_tutorial
 cd Documents/pySDR_tutorial
 python3 -m venv pySDR_tutorial_folder
 source pySDR_tutorial_folder/bin/activate
