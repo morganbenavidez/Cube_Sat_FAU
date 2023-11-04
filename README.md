@@ -8,7 +8,7 @@ Cube Satellite project being created and deployed by dedicated engineering and c
 
 # Create your Python virtual environment and install PySDR
 
-cd Documents/pySDR_tutorial
-python3 -m venv pySDR_tutorial_folder
-source pySDR_tutorial_folder/bin/activate
-pip3 install PySDR
+cd Documents/pySDR_tutorial <br>
+python3 -m venv pySDR_tutorial_folder <br>
+source pySDR_tutorial_folder/bin/activate <br>
+pip3 install PySDR <br>
