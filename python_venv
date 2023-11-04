@@ -10,3 +10,4 @@ cd Documents/pySDR_tutorial
 python3 -m venv pySDR_tutorial_folder
 source pySDR_tutorial_folder/bin/activate
 pip3 install PySDR
+pip3 install bokeh
