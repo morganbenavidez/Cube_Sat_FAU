@@ -14,4 +14,4 @@ Cube Satellite Software Radio project being created and deployed by dedicated en
  - `source Cube_Sat_Fau/venv/bin/activate`  
  - `pip3 install PySDR`  
 
-[Watch Video](ground_work_station2.HEIC)
+![Ground Station](ground_station.png)
